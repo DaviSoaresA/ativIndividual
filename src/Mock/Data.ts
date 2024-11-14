@@ -1,0 +1,60 @@
+
+
+export const DataAPI = [
+    { 
+      id: 1, 
+      name: "Unit 1", 
+      description: "Order food",
+      start:true,
+      end:false,
+      inveted:false,
+    },
+    { 
+      id: 2, 
+      name: "Unit 2", 
+      description: "Basic greetings",
+      start:false,
+      end:false,
+      inveted:true,
+    },
+    { 
+      id: 3, 
+      name: "Unit 3", 
+      description: "Basic questions",
+      start:false,
+      end:false,
+      inveted:false,
+    },
+    { 
+      id: 4, 
+      name: "Unit 4", 
+      description: "Advanced greetings",
+      start:false,
+      end:false,
+      inveted:true,
+    },
+    { 
+      id: 5, 
+      name: "Unit 5", 
+      description: "Advanced questions",
+      start:false,
+      end:false,
+      inveted:false,
+    },
+    { 
+      id: 6, 
+      name: "Unit 6", 
+      description: "Expert talk",
+      start:false,
+      end:false,
+      inveted:true,
+    },
+    { 
+      id: 7, 
+      name: "Unit 7", 
+      description: "Full Conversation",
+      start:false,
+      end:true,
+      inveted:false,
+    },
+  ]
